@@ -1,0 +1,21 @@
+input{
+    width: 300px;
+    padding:10px;
+    border-radius: 20px;
+    margin-right:10px;
+}
+
+button{
+    padding:10px;
+    background-color: rgb(236, 5, 97);
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+}
+
+.search-content{
+    display: flex ;   /*flexbox*/
+    justify-content: space-between;
+}
