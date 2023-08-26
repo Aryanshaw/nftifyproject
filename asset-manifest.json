@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nftifyproject/static/css/main.a0ec6c50.css",
-    "main.js": "/nftifyproject/static/js/main.ff076240.js",
+    "main.js": "/nftifyproject/static/js/main.946bce44.js",
     "static/js/94.ba582a4c.chunk.js": "/nftifyproject/static/js/94.ba582a4c.chunk.js",
     "static/js/914.1ec75fda.chunk.js": "/nftifyproject/static/js/914.1ec75fda.chunk.js",
     "static/js/333.1054e93d.chunk.js": "/nftifyproject/static/js/333.1054e93d.chunk.js",
@@ -47,7 +47,7 @@
     "static/js/419.06ae3104.chunk.js": "/nftifyproject/static/js/419.06ae3104.chunk.js",
     "index.html": "/nftifyproject/index.html",
     "main.a0ec6c50.css.map": "/nftifyproject/static/css/main.a0ec6c50.css.map",
-    "main.ff076240.js.map": "/nftifyproject/static/js/main.ff076240.js.map",
+    "main.946bce44.js.map": "/nftifyproject/static/js/main.946bce44.js.map",
     "94.ba582a4c.chunk.js.map": "/nftifyproject/static/js/94.ba582a4c.chunk.js.map",
     "914.1ec75fda.chunk.js.map": "/nftifyproject/static/js/914.1ec75fda.chunk.js.map",
     "333.1054e93d.chunk.js.map": "/nftifyproject/static/js/333.1054e93d.chunk.js.map",
@@ -93,6 +93,6 @@
   },
   "entrypoints": [
     "static/css/main.a0ec6c50.css",
-    "static/js/main.ff076240.js"
+    "static/js/main.946bce44.js"
   ]
 }
