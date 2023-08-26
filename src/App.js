@@ -35,6 +35,7 @@ const App = () => {
             <Sidebar />
             <div className="content-container">
               <Routes>
+                <Route path="/" element={<TokenAddress />} />
                 <Route path="/token" element={<TokenAddress />} />
                 <Route path="/pair" element={<PairAddress />} />
               </Routes>
